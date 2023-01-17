@@ -151,7 +151,7 @@ typedef struct instruction_s
 -   The rotr opcode
 -   The opcode rotr rotates the stack to the bottom.
 
-## Autors
+## Authors
 
 * **Fortunatus Wulnye** - [Fortune-Labs](https://github.com/Fortune-Labs)
 

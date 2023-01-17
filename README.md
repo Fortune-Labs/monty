@@ -153,6 +153,6 @@ typedef struct instruction_s
 
 ## Autors
 
-* **Fortunatus Wulnye** - [samuelsrmv](https://github.com/Fortune-Labs)
+* **Fortunatus Wulnye** - [Fortune-Labs](https://github.com/Fortune-Labs)
 
-* **Simon Asakipaam** - [](https://github.com/Asakippam-Simon)
+* **Simon Asakipaam** - [Asakippam-Simon](https://github.com/Asakippam-Simon)
